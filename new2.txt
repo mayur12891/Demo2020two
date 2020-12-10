@@ -1,0 +1,2 @@
+Base code for master branch: file 2
+This is base code.
