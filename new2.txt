@@ -2,4 +2,5 @@ Base code for master branch: file 2
 This is base code.
 This line is added by mayur on 15dec.
 This line is added by deep on 15dec.
+This is a new line added by deep to check PR from CMD.
 this line is added by mayur to create conflict.
